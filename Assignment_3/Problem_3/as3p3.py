@@ -46,6 +46,3 @@ avg_pop = sum(population) / len(population)
 print(f"Simulation ended. Final Population: {curr_pop}")
 print(f"Average Population over time: {avg_pop:.2f}")
 
-# Note: You can plot 'population' list using matplotlib if needed
-# plt.plot(population)
-# plt.show()
